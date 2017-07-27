@@ -1,0 +1,14 @@
+D:\Pokus\xxx\Test\TestTests\bin\Debug\TestTests.dll
+D:\Pokus\xxx\Test\TestTests\bin\Debug\TestTests.pdb
+D:\Pokus\xxx\Test\TestTests\bin\Debug\HttpCommunication.dll
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Microsoft.VisualStudio.QualityTools.UnitTestFramework.dll
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Poco.dll
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Test.exe
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Newtonsoft.Json.dll
+D:\Pokus\xxx\Test\TestTests\bin\Debug\HttpCommunication.pdb
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Poco.pdb
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Test.pdb
+D:\Pokus\xxx\Test\TestTests\bin\Debug\Newtonsoft.Json.xml
+D:\Pokus\xxx\Test\TestTests\obj\Debug\TestTests.csprojResolveAssemblyReference.cache
+D:\Pokus\xxx\Test\TestTests\obj\Debug\TestTests.dll
+D:\Pokus\xxx\Test\TestTests\obj\Debug\TestTests.pdb

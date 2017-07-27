@@ -1,0 +1,5 @@
+D:\Pokus\xxx\Test\Poco\bin\Debug\Poco.dll
+D:\Pokus\xxx\Test\Poco\bin\Debug\Poco.pdb
+D:\Pokus\xxx\Test\Poco\obj\Debug\Poco.csprojResolveAssemblyReference.cache
+D:\Pokus\xxx\Test\Poco\obj\Debug\Poco.dll
+D:\Pokus\xxx\Test\Poco\obj\Debug\Poco.pdb
