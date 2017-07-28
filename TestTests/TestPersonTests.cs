@@ -19,7 +19,7 @@ namespace Test.Tests.Tests
         [TestMethod()]
         public void TestDataConsistency()
         {
-            var response = httpCommunication.Execute("http://agl-developer-test.azurewebsites.net/people.json", null, "GET", "application/json", typeof(List<Person>));
+            var response = httpCommunication.Execute(UrlList.PetsUrl, null, "GET", "application/json", typeof(List<Person>));
 
             Assert.IsTrue(CheckTypeAndData(response));
         }
@@ -27,7 +27,7 @@ namespace Test.Tests.Tests
         [TestMethod()]
         public void TestCats()
         {
-            var response = httpCommunication.Execute("http://agl-developer-test.azurewebsites.net/people.json", null, "GET", "application/json", typeof(List<Person>));
+            var response = httpCommunication.Execute(UrlList.PetsUrl, null, "GET", "application/json", typeof(List<Person>));
 
             Assert.IsTrue(CheckTypeAndData(response));
 

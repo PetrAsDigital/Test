@@ -11,7 +11,7 @@ namespace Main
         static void Main(string[] args)
         {
             var httpCommunication = new HttpComm();
-            var response = httpCommunication.Execute("http://agl-developer-test.azurewebsites.net/people.json", null, "GET", "application/json", typeof(List<Person>));
+            var response = httpCommunication.Execute(UrlList.PetsUrl, null, "GET", "application/json", typeof(List<Person>));
 
 
             if (!(response is List<Person>))
