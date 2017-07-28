@@ -10,3 +10,15 @@ D:\Pokus\xxx\Test\Test\bin\Debug\Newtonsoft.Json.xml
 D:\Pokus\xxx\Test\Test\obj\Debug\Main.csprojResolveAssemblyReference.cache
 D:\Pokus\xxx\Test\Test\obj\Debug\Test.exe
 D:\Pokus\xxx\Test\Test\obj\Debug\Test.pdb
+D:\Pokus\test\AG\Test\Test\bin\Debug\Test.exe.config
+D:\Pokus\test\AG\Test\Test\obj\Debug\Test.exe
+D:\Pokus\test\AG\Test\Test\obj\Debug\Test.pdb
+D:\Pokus\test\AG\Test\Test\bin\Debug\Test.exe
+D:\Pokus\test\AG\Test\Test\bin\Debug\Test.pdb
+D:\Pokus\test\AG\Test\Test\bin\Debug\HttpCommunication.dll
+D:\Pokus\test\AG\Test\Test\bin\Debug\Poco.dll
+D:\Pokus\test\AG\Test\Test\bin\Debug\Newtonsoft.Json.dll
+D:\Pokus\test\AG\Test\Test\bin\Debug\HttpCommunication.pdb
+D:\Pokus\test\AG\Test\Test\bin\Debug\Poco.pdb
+D:\Pokus\test\AG\Test\Test\bin\Debug\Newtonsoft.Json.xml
+D:\Pokus\test\AG\Test\Test\obj\Debug\Main.csprojResolveAssemblyReference.cache
